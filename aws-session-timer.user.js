@@ -26,7 +26,7 @@ function addTimer() {
     $("#awsc-nav-scallop-icon-container").before(`
        <div class="_scallop-icon-container_12km3_10" style="align-items: center;">
           <span style=" display:flex; color: #FFFFFF; font-size:2rem; font-family:'Amazon Ember', 'Helvetica Neue', Roboto, Arial, sans-serif; line-height: 1;
-    white-space: nowrap; user-select: none;" class="globalNav-12174 globalNav-128 globalNav-129" id=timer>
+    white-space: nowrap; user-select: none;" class="globalNav-12174 globalNav-129" id=timer>
              XX:XX
           </span>
        </div>`);
